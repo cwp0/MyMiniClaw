@@ -3,6 +3,7 @@
 
 > **~2,700 lines of Python** that implement the core architecture of [OpenClaw](https://github.com/openclaw/openclaw) (430K lines TypeScript). Built for understanding, not production.
 
+
 [中文版 README](./README_zh.md) | [Architecture Deep-Dive (中文)](./docs/architecture-guide.md)
 
 ## What Is This?
